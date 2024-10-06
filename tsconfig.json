@@ -1,0 +1,16 @@
+{
+  "extends": ["../../tsconfig.base.json"],
+  "compilerOptions": {
+    // "experimentalDecorators": false,
+    // "emitDecoratorMetadata": true,
+    "baseUrl": "./src",
+    "paths": {
+      "@/*": ["./*"],
+      "@mantine/core": ["./node_modules/@asuikit/core"]
+    },
+    "incremental": true
+    // "plugins": [{ "name": "typescript-plugin-css-modules" }]
+  },
+  "include": ["src", "type.ts", "__generated", "next-env.d.ts"],
+  "exclude": ["node_modules"]
+}

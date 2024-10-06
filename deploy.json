@@ -1,0 +1,9 @@
+{
+  "link": "",
+  "production": {
+    "port": 5001
+  },
+  "gray": {
+    "port": 6001
+  }
+}

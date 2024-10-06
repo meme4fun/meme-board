@@ -1,0 +1,24 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.vscode
+out
+.next
+.app-cache
+yarn-error.log
+
+package-lock.json
+.idea
+.i18n
+.feishu
+parse-feishu-doc-output.json
+*.tsbuildinfo
+
+# Sentry
+.sentryclirc
+# pnpm-lock.yaml
+.dynamodb-cache
+.turbo
+.app-fs-cache
