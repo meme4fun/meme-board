@@ -1,0 +1,4 @@
+
+ENV_DEV = 'DEV'
+ENV_TEST = 'TEST'
+ENV_PROD = 'PROD'
