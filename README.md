@@ -6,7 +6,7 @@
 #### Aim to build a new meme creator ecosystem. 
 
 #### Twitter:
-https://x.com/0xm4fun_sol
+https://x.com/0xmeme4fun
 
 #### Demo Presentation:
 https://www.loom.com/share/610a9724b3f04998a62f8dd95a66768d
